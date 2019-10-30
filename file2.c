@@ -1,7 +1,8 @@
 #include<stdio.h>
 void main()
 {
-printf("modified copy")
+printf("modified copy");
 printf("hello_github");
+  printf("hello");
 }
 
